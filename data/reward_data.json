@@ -1,0 +1,10 @@
+[
+    {
+      "prompt": "User: Hello, how are you?\nAssistant: I am good, thanks!",
+      "response_1": "I'm doing well, how can I help?",
+      "response_2": "Not too bad. What's up?",
+      "chosen": 1
+    },
+    ...
+  ]
+  
